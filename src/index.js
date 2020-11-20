@@ -1,11 +1,13 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import App from "./App";
+import AppHookState from "./AppHookState";
+import AppHookEffect from "./AppHookEffect";
+import AppHookCustom from "./AppHookCustom";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
     <React.StrictMode>
-        <App />
+        <AppHookEffect />
     </React.StrictMode>,
     document.getElementById("root")
 );
