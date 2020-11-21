@@ -1,4 +1,4 @@
-# Example React Hooks
+# Esempi React Hooks
 
 Gli Hooks ci consentono di utilizzare lo stato, gli "effetti collaterali" e altre funzionalità nei componenti funzionali. 
 
