@@ -13,3 +13,5 @@ e come creare e utilizzare un hook personalizzato:
 - Hook Custom **useFetch**: AppHookCustom.js
 
 importare il componente del relativo hook in *index.js* per vederlo in opera.
+
+https://codesandbox.io/s/react-hooks-xv7ro
