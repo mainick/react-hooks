@@ -1,8 +1,8 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import AppHookState from "./AppHookState";
-import AppHookEffect from "./AppHookEffect";
-import AppHookCustom from "./AppHookCustom";
+import AppHookState from "./components/AppHookState";
+import AppHookEffect from "./components/AppHookEffect";
+import AppHookCustom from "./components/AppHookCustom";
 import reportWebVitals from "./reportWebVitals";
 
 ReactDOM.render(
