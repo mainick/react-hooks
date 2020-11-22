@@ -14,4 +14,4 @@ e come creare e utilizzare un hook personalizzato:
 
 importare il componente del relativo hook in *index.js* per vederlo in opera.
 
-https://codesandbox.io/s/react-hooks-xv7ro
+https://codesandbox.io/s/react-hooks-vcrku
